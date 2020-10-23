@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
 SCRIPT			# この行は絶対消さないこと！
 
 #------------------------------------------------------------------------------
@@ -115,4 +118,127 @@ MODELSET
 	ROT = 0 180 0
 END_MODELSET
 
+=======
+>>>>>>> a6583b3a48f3fc4c322b5886eee8e528e94535f9
+SCRIPT			# この行は絶対消さないこと！
+
+#------------------------------------------------------------------------------
+# 読み込むモデル数
+#------------------------------------------------------------------------------
+NUM_MODEL = 17
+
+#------------------------------------------------------------------------------
+# 読み込むモデルファイル名
+#------------------------------------------------------------------------------
+
+
+#------------------------------------------------------------------------------
+# 表示するモデルの配置情報
+#------------------------------------------------------------------------------
+MODELSET
+	TYPE = 2
+	POS = 4000 0 4000
+	ROT = 0 0 0
+END_MODELSET
+
+MODELSET
+	TYPE = 5
+	POS = 4000 0 4800
+	ROT = 0 0 0
+END_MODELSET
+
+MODELSET
+	TYPE = 0
+	POS = 0 0 800
+	ROT = 0 0 0
+END_MODELSET
+
+MODELSET
+	TYPE = 1
+	POS = 0 0 1600
+	ROT = 0 0 0
+END_MODELSET
+
+MODELSET
+	TYPE = 2
+	POS = 0 0 2400
+	ROT = 0 0 0
+END_MODELSET
+
+MODELSET
+	TYPE = 3
+	POS = 0 0 3200
+	ROT = 0 0 0
+END_MODELSET
+
+MODELSET
+	TYPE = 4
+	POS = 0 0 4000
+	ROT = 0 0 0
+END_MODELSET
+
+MODELSET
+	TYPE = 5
+	POS = 0 0 4800
+	ROT = 0 0 0
+END_MODELSET
+
+MODELSET
+	TYPE = 6
+	POS = 3200 0 2400
+	ROT = 0 0 0
+END_MODELSET
+
+MODELSET
+	TYPE = 8
+	POS = 150 0 400
+	ROT = 0 0 0
+END_MODELSET
+
+MODELSET
+	TYPE = 0
+	POS = 0 0 0
+	ROT = 0 0 0
+END_MODELSET
+
+MODELSET
+	TYPE = 2
+	POS = 4000 0 0
+	ROT = 0 0 0
+END_MODELSET
+
+MODELSET
+	TYPE = 3
+	POS = 4000 0 800
+	ROT = 0 0 0
+END_MODELSET
+
+MODELSET
+	TYPE = 4
+	POS = 4000 0 1600
+	ROT = 0 0 0
+END_MODELSET
+
+MODELSET
+	TYPE = 5
+	POS = 4000 0 2400
+	ROT = 0 0 0
+END_MODELSET
+
+MODELSET
+	TYPE = 0
+	POS = 4015 0 3229
+	ROT = 0 0 0
+END_MODELSET
+
+MODELSET
+	TYPE = 7
+	POS = 800 0 2400
+	ROT = 0 180 0
+END_MODELSET
+
+<<<<<<< HEAD
+=======
+>>>>>>> f3d5af8f619feb1bdd1b24797dcdecaaaead1bb0
+>>>>>>> a6583b3a48f3fc4c322b5886eee8e528e94535f9
 END_SCRIPT		# この行は絶対消さないこと！
