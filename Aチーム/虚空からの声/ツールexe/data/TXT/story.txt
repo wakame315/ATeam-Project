@@ -1,4 +1,6 @@
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 STAGE_DATA
 0,0,0,1
 0,0,200,1
@@ -99,6 +101,7 @@ STAGE_DATA
 2200,0,100,1
 END_STAGE_DATA
 =======
+>>>>>>> a6583b3a48f3fc4c322b5886eee8e528e94535f9
 STAGE_DATA
 0,0,0,1
 0,0,200,1
@@ -198,4 +201,7 @@ STAGE_DATA
 2200,0,200,1
 2200,0,100,1
 END_STAGE_DATA
+<<<<<<< HEAD
+=======
 >>>>>>> f3d5af8f619feb1bdd1b24797dcdecaaaead1bb0
+>>>>>>> a6583b3a48f3fc4c322b5886eee8e528e94535f9
